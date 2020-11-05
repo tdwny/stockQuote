@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" time="0.284" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" time="0.254" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="13.0.2+8"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/13.0.2+8_2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/timothy.downey/UmlCourse/stockquote-week5"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/timothy.downey/Desktop/stockQuote"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="path.separator" value=":"/>
@@ -13,7 +13,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/timothy.downey/UmlCourse/stockquote-week5"/>
+    <property name="user.dir" value="/Users/timothy.downey/Desktop/stockQuote"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="13.0.2+8"/>
     <property name="os.arch" value="x86_64"/>
@@ -54,8 +54,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testGoodInitFile" time="0.256"/>
-  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testBadInitFile" time="0.011"/>
-  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testGetConnection" time="0.009"/>
+  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testGoodInitFile" time="0.232"/>
+  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testBadInitFile" time="0.007"/>
+  <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testGetConnection" time="0.007"/>
   <testcase classname="com.origamisoftware.teach.advanced.util.DatabaseUtilsTest" name="testGetConnectionWorks" time="0.008"/>
 </testsuite>
