@@ -1,0 +1,14 @@
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/services/StockServiceException.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/util/Interval.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/util/DatabaseInitializationException.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/model/StockData.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/services/StockServiceFactory.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/util/ProgramConfiguration.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/services/DatabaseStockService.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/services/SimpleStockService.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/services/StockService.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/apps/stockquote/BasicStockQuoteApplication.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/util/DatabaseUtils.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/model/StockQuote.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/util/DatabaseConnectionException.java
+/Users/timothy.downey/UmlCourse/stockquote-week5/src/main/java/com/origamisoftware/teach/advanced/model/StockQuery.java
